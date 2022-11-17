@@ -15,8 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Yuvaraj M 
-          HELLO KING 
+          Yuvaraj M King 
         </a>
       </header>
     </div>
